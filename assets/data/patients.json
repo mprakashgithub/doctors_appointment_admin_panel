@@ -1,0 +1,1194 @@
+{
+  "patients": [
+    {
+      "id": "P001",
+      "name": "John Smith",
+      "age": 45,
+      "gender": "Male",
+      "email": "john.smith@email.com",
+      "phone": "+1-555-0123",
+      "address": "123 Main St, New York, NY 10001",
+      "bloodGroup": "O+",
+      "medicalHistory": [
+        {
+          "condition": "Hypertension",
+          "diagnosedDate": "2020-03-15",
+          "status": "Active"
+        },
+        {
+          "condition": "Type 2 Diabetes",
+          "diagnosedDate": "2019-06-20",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Penicillin", "Shellfish"],
+      "lastVisit": "2024-02-15",
+      "nextAppointment": "2024-03-15",
+      "assignedDoctor": "Dr. Sarah Johnson",
+      "emergencyContact": {
+        "name": "Mary Smith",
+        "relationship": "Spouse",
+        "phone": "+1-555-0124"
+      }
+    },
+    {
+      "id": "P002",
+      "name": "Emma Wilson",
+      "age": 32,
+      "gender": "Female",
+      "email": "emma.wilson@email.com",
+      "phone": "+1-555-0125",
+      "address": "456 Oak Ave, Boston, MA 02108",
+      "bloodGroup": "A+",
+      "medicalHistory": [
+        {
+          "condition": "Asthma",
+          "diagnosedDate": "2015-08-10",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Dust", "Pollen"],
+      "lastVisit": "2024-02-10",
+      "nextAppointment": "2024-03-10",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": {
+        "name": "James Wilson",
+        "relationship": "Spouse",
+        "phone": "+1-555-0126"
+      }
+    },
+    {
+      "id": "P003",
+      "name": "Robert Chen",
+      "age": 28,
+      "gender": "Male",
+      "email": "robert.chen@email.com",
+      "phone": "+1-555-0127",
+      "address": "789 Pine St, San Francisco, CA 94102",
+      "bloodGroup": "B+",
+      "medicalHistory": [
+        {
+          "condition": "Migraines",
+          "diagnosedDate": "2021-01-05",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Sulfa drugs"],
+      "lastVisit": "2024-02-05",
+      "nextAppointment": "2024-03-05",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": {
+        "name": "Susan Chen",
+        "relationship": "Sister",
+        "phone": "+1-555-0128"
+      }
+    },
+    {
+      "id": "P004",
+      "name": "Sophia Martinez",
+      "age": 55,
+      "gender": "Female",
+      "email": "sophia.martinez@email.com",
+      "phone": "+1-555-0129",
+      "address": "321 Elm St, Miami, FL 33101",
+      "bloodGroup": "AB+",
+      "medicalHistory": [
+        {
+          "condition": "Arthritis",
+          "diagnosedDate": "2018-11-20",
+          "status": "Active"
+        },
+        {
+          "condition": "High Cholesterol",
+          "diagnosedDate": "2019-04-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Latex"],
+      "lastVisit": "2024-02-01",
+      "nextAppointment": "2024-03-01",
+      "assignedDoctor": "Dr. David Lee",
+      "emergencyContact": {
+        "name": "Carlos Martinez",
+        "relationship": "Spouse",
+        "phone": "+1-555-0130"
+      }
+    },
+    {
+      "id": "P005",
+      "name": "David Kim",
+      "age": 40,
+      "gender": "Male",
+      "email": "david.kim@email.com",
+      "phone": "+1-555-0131",
+      "address": "654 Maple Dr, Seattle, WA 98101",
+      "bloodGroup": "O-",
+      "medicalHistory": [
+        {
+          "condition": "Anxiety",
+          "diagnosedDate": "2022-02-10",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Peanuts"],
+      "lastVisit": "2024-01-28",
+      "nextAppointment": "2024-02-28",
+      "assignedDoctor": "Dr. Sarah Johnson",
+      "emergencyContact": {
+        "name": "Jennifer Kim",
+        "relationship": "Spouse",
+        "phone": "+1-555-0132"
+      }
+    },
+    {
+      "id": "P006",
+      "name": "Olivia Taylor",
+      "age": 35,
+      "gender": "Female",
+      "email": "olivia.taylor@email.com",
+      "phone": "+1-555-0133",
+      "address": "987 Cedar Ln, Chicago, IL 60601",
+      "bloodGroup": "A-",
+      "medicalHistory": [
+        {
+          "condition": "Hypothyroidism",
+          "diagnosedDate": "2020-09-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Iodine"],
+      "lastVisit": "2024-01-25",
+      "nextAppointment": "2024-02-25",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": {
+        "name": "William Taylor",
+        "relationship": "Spouse",
+        "phone": "+1-555-0134"
+      }
+    },
+    {
+      "id": "P007",
+      "name": "James Anderson",
+      "age": 50,
+      "gender": "Male",
+      "email": "james.anderson@email.com",
+      "phone": "+1-555-0135",
+      "address": "147 Birch Rd, Houston, TX 77001",
+      "bloodGroup": "B-",
+      "medicalHistory": [
+        {
+          "condition": "Heart Disease",
+          "diagnosedDate": "2019-12-01",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Aspirin"],
+      "lastVisit": "2024-01-22",
+      "nextAppointment": "2024-02-22",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": {
+        "name": "Patricia Anderson",
+        "relationship": "Spouse",
+        "phone": "+1-555-0136"
+      }
+    },
+    {
+      "id": "P008",
+      "name": "Isabella Garcia",
+      "age": 42,
+      "gender": "Female",
+      "email": "isabella.garcia@email.com",
+      "phone": "+1-555-0137",
+      "address": "258 Willow Way, Los Angeles, CA 90001",
+      "bloodGroup": "AB-",
+      "medicalHistory": [
+        {
+          "condition": "Fibromyalgia",
+          "diagnosedDate": "2021-07-20",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["NSAIDs"],
+      "lastVisit": "2024-01-19",
+      "nextAppointment": "2024-02-19",
+      "assignedDoctor": "Dr. David Lee",
+      "emergencyContact": {
+        "name": "Miguel Garcia",
+        "relationship": "Spouse",
+        "phone": "+1-555-0138"
+      }
+    },
+    {
+      "id": "P009",
+      "name": "William Johnson",
+      "age": 38,
+      "gender": "Male",
+      "email": "william.johnson@email.com",
+      "phone": "+1-555-0139",
+      "address": "369 Spruce St, Denver, CO 80201",
+      "bloodGroup": "O+",
+      "medicalHistory": [
+        {
+          "condition": "Sleep Apnea",
+          "diagnosedDate": "2022-05-10",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Morphine"],
+      "lastVisit": "2024-01-16",
+      "nextAppointment": "2024-02-16",
+      "assignedDoctor": "Dr. Sarah Johnson",
+      "emergencyContact": {
+        "name": "Elizabeth Johnson",
+        "relationship": "Spouse",
+        "phone": "+1-555-0140"
+      }
+    },
+    {
+      "id": "P010",
+      "name": "Mia Rodriguez",
+      "age": 29,
+      "gender": "Female",
+      "email": "mia.rodriguez@email.com",
+      "phone": "+1-555-0141",
+      "address": "741 Aspen Ct, Phoenix, AZ 85001",
+      "bloodGroup": "A+",
+      "medicalHistory": [
+        {
+          "condition": "PCOS",
+          "diagnosedDate": "2020-11-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Soy"],
+      "lastVisit": "2024-01-13",
+      "nextAppointment": "2024-02-13",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": {
+        "name": "Luis Rodriguez",
+        "relationship": "Spouse",
+        "phone": "+1-555-0142"
+      }
+    },
+    {
+      "id": "P011",
+      "name": "Ethan Thompson",
+      "age": 33,
+      "gender": "Male",
+      "email": "ethan.thompson@email.com",
+      "phone": "+1-555-0143",
+      "address": "852 Redwood Blvd, Portland, OR 97201",
+      "bloodGroup": "B+",
+      "medicalHistory": [
+        {
+          "condition": "Ulcerative Colitis",
+          "diagnosedDate": "2021-03-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Dairy"],
+      "lastVisit": "2024-01-10",
+      "nextAppointment": "2024-02-10",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": {
+        "name": "Sophia Thompson",
+        "relationship": "Spouse",
+        "phone": "+1-555-0144"
+      }
+    },
+    {
+      "id": "P012",
+      "name": "Ava White",
+      "age": 27,
+      "gender": "Female",
+      "email": "ava.white@email.com",
+      "phone": "+1-555-0145",
+      "address": "963 Sequoia Dr, San Diego, CA 92101",
+      "bloodGroup": "O-",
+      "medicalHistory": [
+        {
+          "condition": "Depression",
+          "diagnosedDate": "2022-08-20",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Shellfish"],
+      "lastVisit": "2024-01-07",
+      "nextAppointment": "2024-02-07",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": {
+        "name": "Daniel White",
+        "relationship": "Spouse",
+        "phone": "+1-555-0146"
+      }
+    },
+    {
+      "id": "P013",
+      "name": "Noah Martinez",
+      "age": 41,
+      "gender": "Male",
+      "email": "noah.martinez@email.com",
+      "phone": "+1-555-0147",
+      "address": "159 Magnolia Ave, Atlanta, GA 30301",
+      "bloodGroup": "A+",
+      "medicalHistory": [
+        {
+          "condition": "Gout",
+          "diagnosedDate": "2020-05-10",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Sulfa drugs"],
+      "lastVisit": "2024-01-04",
+      "nextAppointment": "2024-02-04",
+      "assignedDoctor": "Dr. David Lee",
+      "emergencyContact": {
+        "name": "Isabella Martinez",
+        "relationship": "Spouse",
+        "phone": "+1-555-0148"
+      }
+    },
+    {
+      "id": "P014",
+      "name": "Charlotte Brown",
+      "age": 36,
+      "gender": "Female",
+      "email": "charlotte.brown@email.com",
+      "phone": "+1-555-0149",
+      "address": "357 Cypress St, Dallas, TX 75201",
+      "bloodGroup": "AB+",
+      "medicalHistory": [
+        {
+          "condition": "Endometriosis",
+          "diagnosedDate": "2019-09-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Latex"],
+      "lastVisit": "2024-01-01",
+      "nextAppointment": "2024-02-01",
+      "assignedDoctor": "Dr. Sarah Johnson",
+      "emergencyContact": {
+        "name": "William Brown",
+        "relationship": "Spouse",
+        "phone": "+1-555-0150"
+      }
+    },
+    {
+      "id": "P015",
+      "name": "Liam Davis",
+      "age": 44,
+      "gender": "Male",
+      "email": "liam.davis@email.com",
+      "phone": "+1-555-0151",
+      "address": "486 Palm Dr, Las Vegas, NV 89101",
+      "bloodGroup": "B-",
+      "medicalHistory": [
+        {
+          "condition": "Sleep Apnea",
+          "diagnosedDate": "2021-11-20",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Penicillin"],
+      "lastVisit": "2023-12-29",
+      "nextAppointment": "2024-01-29",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": {
+        "name": "Emma Davis",
+        "relationship": "Spouse",
+        "phone": "+1-555-0152"
+      }
+    },
+    {
+      "id": "P016",
+      "name": "Amelia Wilson",
+      "age": 31,
+      "gender": "Female",
+      "email": "amelia.wilson@email.com",
+      "phone": "+1-555-0153",
+      "address": "753 Oakwood Ln, Philadelphia, PA 19101",
+      "bloodGroup": "O+",
+      "medicalHistory": [
+        {
+          "condition": "Rheumatoid Arthritis",
+          "diagnosedDate": "2020-07-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Aspirin"],
+      "lastVisit": "2023-12-26",
+      "nextAppointment": "2024-01-26",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": {
+        "name": "James Wilson",
+        "relationship": "Spouse",
+        "phone": "+1-555-0154"
+      }
+    },
+    {
+      "id": "P017",
+      "name": "Benjamin Taylor",
+      "age": 39,
+      "gender": "Male",
+      "email": "benjamin.taylor@email.com",
+      "phone": "+1-555-0155",
+      "address": "951 Maplewood Ave, Detroit, MI 48201",
+      "bloodGroup": "A-",
+      "medicalHistory": [
+        {
+          "condition": "Chronic Migraines",
+          "diagnosedDate": "2019-12-10",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Sulfa drugs"],
+      "lastVisit": "2023-12-23",
+      "nextAppointment": "2024-01-23",
+      "assignedDoctor": "Dr. David Lee",
+      "emergencyContact": {
+        "name": "Sophia Taylor",
+        "relationship": "Spouse",
+        "phone": "+1-555-0156"
+      }
+    },
+    {
+      "id": "P018",
+      "name": "Mia Anderson",
+      "age": 34,
+      "gender": "Female",
+      "email": "mia.anderson@email.com",
+      "phone": "+1-555-0157",
+      "address": "357 Pinecrest Dr, Minneapolis, MN 55401",
+      "bloodGroup": "B+",
+      "medicalHistory": [
+        {
+          "condition": "Fibromyalgia",
+          "diagnosedDate": "2021-04-20",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["NSAIDs"],
+      "lastVisit": "2023-12-20",
+      "nextAppointment": "2024-01-20",
+      "assignedDoctor": "Dr. Sarah Johnson",
+      "emergencyContact": {
+        "name": "Ethan Anderson",
+        "relationship": "Spouse",
+        "phone": "+1-555-0158"
+      }
+    },
+    {
+      "id": "P019",
+      "name": "Elijah Thomas",
+      "age": 47,
+      "gender": "Male",
+      "email": "elijah.thomas@email.com",
+      "phone": "+1-555-0159",
+      "address": "852 Cedarwood Blvd, Cleveland, OH 44101",
+      "bloodGroup": "AB-",
+      "medicalHistory": [
+        {
+          "condition": "Type 1 Diabetes",
+          "diagnosedDate": "2018-06-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Shellfish"],
+      "lastVisit": "2023-12-17",
+      "nextAppointment": "2024-01-17",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": {
+        "name": "Olivia Thomas",
+        "relationship": "Spouse",
+        "phone": "+1-555-0160"
+      }
+    },
+    {
+      "id": "P020",
+      "name": "Harper Garcia",
+      "age": 29,
+      "gender": "Female",
+      "email": "harper.garcia@email.com",
+      "phone": "+1-555-0161",
+      "address": "159 Birchwood Ct, Kansas City, MO 64101",
+      "bloodGroup": "O-",
+      "medicalHistory": [
+        {
+          "condition": "Anxiety Disorder",
+          "diagnosedDate": "2022-01-10",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Penicillin"],
+      "lastVisit": "2023-12-14",
+      "nextAppointment": "2024-01-14",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": {
+        "name": "Lucas Garcia",
+        "relationship": "Spouse",
+        "phone": "+1-555-0162"
+      }
+    },
+    {
+      "id": "P021",
+      "name": "Lucas Martinez",
+      "age": 37,
+      "gender": "Male",
+      "email": "lucas.martinez@email.com",
+      "phone": "+1-555-0163",
+      "address": "753 Willow Way, San Antonio, TX 78201",
+      "bloodGroup": "A+",
+      "medicalHistory": [
+        {
+          "condition": "Hypertension",
+          "diagnosedDate": "2020-09-20",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Shellfish"],
+      "lastVisit": "2023-12-11",
+      "nextAppointment": "2024-01-11",
+      "assignedDoctor": "Dr. David Lee",
+      "emergencyContact": {
+        "name": "Emma Martinez",
+        "relationship": "Spouse",
+        "phone": "+1-555-0164"
+      }
+    },
+    {
+      "id": "P022",
+      "name": "Evelyn Robinson",
+      "age": 42,
+      "gender": "Female",
+      "email": "evelyn.robinson@email.com",
+      "phone": "+1-555-0165",
+      "address": "357 Oakridge Dr, Nashville, TN 37201",
+      "bloodGroup": "B+",
+      "medicalHistory": [
+        {
+          "condition": "Multiple Sclerosis",
+          "diagnosedDate": "2019-03-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Latex"],
+      "lastVisit": "2023-12-08",
+      "nextAppointment": "2024-01-08",
+      "assignedDoctor": "Dr. Sarah Johnson",
+      "emergencyContact": {
+        "name": "William Robinson",
+        "relationship": "Spouse",
+        "phone": "+1-555-0166"
+      }
+    },
+    {
+      "id": "P023",
+      "name": "Mason Clark",
+      "age": 45,
+      "gender": "Male",
+      "email": "mason.clark@email.com",
+      "phone": "+1-555-0167",
+      "address": "852 Pine Valley Rd, Denver, CO 80201",
+      "bloodGroup": "O+",
+      "medicalHistory": [
+        {
+          "condition": "Sleep Apnea",
+          "diagnosedDate": "2021-06-10",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Penicillin"],
+      "lastVisit": "2023-12-05",
+      "nextAppointment": "2024-01-05",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": {
+        "name": "Sophia Clark",
+        "relationship": "Spouse",
+        "phone": "+1-555-0168"
+      }
+    },
+    {
+      "id": "P024",
+      "name": "Abigail Rodriguez",
+      "age": 33,
+      "gender": "Female",
+      "email": "abigail.rodriguez@email.com",
+      "phone": "+1-555-0169",
+      "address": "159 Maplewood Ave, Portland, OR 97201",
+      "bloodGroup": "AB+",
+      "medicalHistory": [
+        {
+          "condition": "Endometriosis",
+          "diagnosedDate": "2020-11-20",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Sulfa drugs"],
+      "lastVisit": "2023-12-02",
+      "nextAppointment": "2024-01-02",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": {
+        "name": "Daniel Rodriguez",
+        "relationship": "Spouse",
+        "phone": "+1-555-0170"
+      }
+    },
+    {
+      "id": "P025",
+      "name": "Oliver Lewis",
+      "age": 39,
+      "gender": "Male",
+      "email": "oliver.lewis@email.com",
+      "phone": "+1-555-0171",
+      "address": "753 Cedar Ln, Seattle, WA 98101",
+      "bloodGroup": "B-",
+      "medicalHistory": [
+        {
+          "condition": "Gout",
+          "diagnosedDate": "2021-02-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Aspirin"],
+      "lastVisit": "2023-11-29",
+      "nextAppointment": "2023-12-29",
+      "assignedDoctor": "Dr. David Lee",
+      "emergencyContact": {
+        "name": "Isabella Lewis",
+        "relationship": "Spouse",
+        "phone": "+1-555-0172"
+      }
+    },
+    {
+      "id": "P026",
+      "name": "Elizabeth Walker",
+      "age": 36,
+      "gender": "Female",
+      "email": "elizabeth.walker@email.com",
+      "phone": "+1-555-0173",
+      "address": "357 Birchwood Dr, Austin, TX 78701",
+      "bloodGroup": "A-",
+      "medicalHistory": [
+        {
+          "condition": "PCOS",
+          "diagnosedDate": "2019-08-10",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Dairy"],
+      "lastVisit": "2023-11-26",
+      "nextAppointment": "2023-12-26",
+      "assignedDoctor": "Dr. Sarah Johnson",
+      "emergencyContact": {
+        "name": "Michael Walker",
+        "relationship": "Spouse",
+        "phone": "+1-555-0174"
+      }
+    },
+    {
+      "id": "P027",
+      "name": "Henry Hall",
+      "age": 43,
+      "gender": "Male",
+      "email": "henry.hall@email.com",
+      "phone": "+1-555-0175",
+      "address": "852 Oakwood Ave, Chicago, IL 60601",
+      "bloodGroup": "O+",
+      "medicalHistory": [
+        {
+          "condition": "Heart Disease",
+          "diagnosedDate": "2020-04-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Shellfish"],
+      "lastVisit": "2023-11-23",
+      "nextAppointment": "2023-12-23",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": {
+        "name": "Charlotte Hall",
+        "relationship": "Spouse",
+        "phone": "+1-555-0176"
+      }
+    },
+    {
+      "id": "P028",
+      "name": "Sofia Young",
+      "age": 30,
+      "gender": "Female",
+      "email": "sofia.young@email.com",
+      "phone": "+1-555-0177",
+      "address": "159 Pinecrest Ln, Boston, MA 02108",
+      "bloodGroup": "B+",
+      "medicalHistory": [
+        {
+          "condition": "Asthma",
+          "diagnosedDate": "2018-12-20",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Dust", "Pollen"],
+      "lastVisit": "2023-11-20",
+      "nextAppointment": "2023-12-20",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": {
+        "name": "James Young",
+        "relationship": "Spouse",
+        "phone": "+1-555-0178"
+      }
+    },
+    {
+      "id": "P029",
+      "name": "Sebastian Allen",
+      "age": 38,
+      "gender": "Male",
+      "email": "sebastian.allen@email.com",
+      "phone": "+1-555-0179",
+      "address": "753 Maple Dr, San Francisco, CA 94102",
+      "bloodGroup": "AB-",
+      "medicalHistory": [
+        {
+          "condition": "Ulcerative Colitis",
+          "diagnosedDate": "2021-09-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["NSAIDs"],
+      "lastVisit": "2023-11-17",
+      "nextAppointment": "2023-12-17",
+      "assignedDoctor": "Dr. David Lee",
+      "emergencyContact": {
+        "name": "Emma Allen",
+        "relationship": "Spouse",
+        "phone": "+1-555-0180"
+      }
+    },
+    {
+      "id": "P030",
+      "name": "Avery King",
+      "age": 35,
+      "gender": "Female",
+      "email": "avery.king@email.com",
+      "phone": "+1-555-0181",
+      "address": "357 Cedarwood Blvd, Miami, FL 33101",
+      "bloodGroup": "O-",
+      "medicalHistory": [
+        {
+          "condition": "Fibromyalgia",
+          "diagnosedDate": "2020-06-10",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Penicillin"],
+      "lastVisit": "2023-11-14",
+      "nextAppointment": "2023-12-14",
+      "assignedDoctor": "Dr. Sarah Johnson",
+      "emergencyContact": {
+        "name": "William King",
+        "relationship": "Spouse",
+        "phone": "+1-555-0182"
+      }
+    },
+    {
+      "id": "P031",
+      "name": "Jack Wright",
+      "age": 41,
+      "gender": "Male",
+      "email": "jack.wright@email.com",
+      "phone": "+1-555-0183",
+      "address": "852 Willow Way, New York, NY 10001",
+      "bloodGroup": "A+",
+      "medicalHistory": [
+        {
+          "condition": "Type 2 Diabetes",
+          "diagnosedDate": "2019-11-20",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Shellfish"],
+      "lastVisit": "2023-11-11",
+      "nextAppointment": "2023-12-11",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": {
+        "name": "Sophia Wright",
+        "relationship": "Spouse",
+        "phone": "+1-555-0184"
+      }
+    },
+    {
+      "id": "P032",
+      "name": "Scarlett Lopez",
+      "age": 33,
+      "gender": "Female",
+      "email": "scarlett.lopez@email.com",
+      "phone": "+1-555-0185",
+      "address": "159 Oakridge Dr, Los Angeles, CA 90001",
+      "bloodGroup": "B+",
+      "medicalHistory": [
+        {
+          "condition": "Rheumatoid Arthritis",
+          "diagnosedDate": "2021-01-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Latex"],
+      "lastVisit": "2023-11-08",
+      "nextAppointment": "2023-12-08",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": {
+        "name": "Daniel Lopez",
+        "relationship": "Spouse",
+        "phone": "+1-555-0186"
+      }
+    },
+    {
+      "id": "P033",
+      "name": "Owen Hill",
+      "age": 46,
+      "gender": "Male",
+      "email": "owen.hill@email.com",
+      "phone": "+1-555-0187",
+      "address": "753 Pine Valley Rd, Houston, TX 77001",
+      "bloodGroup": "O+",
+      "medicalHistory": [
+        {
+          "condition": "Sleep Apnea",
+          "diagnosedDate": "2020-08-10",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Penicillin"],
+      "lastVisit": "2023-11-05",
+      "nextAppointment": "2023-12-05",
+      "assignedDoctor": "Dr. David Lee",
+      "emergencyContact": {
+        "name": "Emma Hill",
+        "relationship": "Spouse",
+        "phone": "+1-555-0188"
+      }
+    },
+    {
+      "id": "P034",
+      "name": "Victoria Scott",
+      "age": 39,
+      "gender": "Female",
+      "email": "victoria.scott@email.com",
+      "phone": "+1-555-0189",
+      "address": "357 Cedar Ln, Seattle, WA 98101",
+      "bloodGroup": "AB+",
+      "medicalHistory": [
+        {
+          "condition": "Endometriosis",
+          "diagnosedDate": "2019-05-20",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Sulfa drugs"],
+      "lastVisit": "2023-11-02",
+      "nextAppointment": "2023-12-02",
+      "assignedDoctor": "Dr. Sarah Johnson",
+      "emergencyContact": {
+        "name": "James Scott",
+        "relationship": "Spouse",
+        "phone": "+1-555-0190"
+      }
+    },
+    {
+      "id": "P035",
+      "name": "Gabriel Green",
+      "age": 44,
+      "gender": "Male",
+      "email": "gabriel.green@email.com",
+      "phone": "+1-555-0191",
+      "address": "852 Birchwood Ct, Denver, CO 80201",
+      "bloodGroup": "B-",
+      "medicalHistory": [
+        {
+          "condition": "Gout",
+          "diagnosedDate": "2021-03-15",
+          "status": "Active"
+        }
+      ],
+      "allergies": ["Aspirin"],
+      "lastVisit": "2023-10-30",
+      "nextAppointment": "2023-11-30",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": {
+        "name": "Isabella Green",
+        "relationship": "Spouse",
+        "phone": "+1-555-0192"
+      }
+    },
+    {
+      "id": "P036",
+      "name": "Layla Baker",
+      "age": 32,
+      "gender": "Female",
+      "email": "layla.baker@email.com",
+      "phone": "+1-555-0193",
+      "address": "123 Magnolia St, Charlotte, NC 28201",
+      "bloodGroup": "A-",
+      "medicalHistory": [
+        { "condition": "Asthma", "diagnosedDate": "2017-04-10", "status": "Active" }
+      ],
+      "allergies": ["Pollen"],
+      "lastVisit": "2023-10-27",
+      "nextAppointment": "2023-11-27",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": { "name": "Ethan Baker", "relationship": "Spouse", "phone": "+1-555-0194" }
+    },
+    {
+      "id": "P037",
+      "name": "Julian Nelson",
+      "age": 40,
+      "gender": "Male",
+      "email": "julian.nelson@email.com",
+      "phone": "+1-555-0195",
+      "address": "456 Redwood Ave, Columbus, OH 43201",
+      "bloodGroup": "O+",
+      "medicalHistory": [
+        { "condition": "Hypertension", "diagnosedDate": "2018-09-15", "status": "Active" }
+      ],
+      "allergies": ["Shellfish"],
+      "lastVisit": "2023-10-24",
+      "nextAppointment": "2023-11-24",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": { "name": "Sophia Nelson", "relationship": "Spouse", "phone": "+1-555-0196" }
+    },
+    {
+      "id": "P038",
+      "name": "Penelope Carter",
+      "age": 29,
+      "gender": "Female",
+      "email": "penelope.carter@email.com",
+      "phone": "+1-555-0197",
+      "address": "789 Sequoia Dr, Indianapolis, IN 46201",
+      "bloodGroup": "B+",
+      "medicalHistory": [
+        { "condition": "Migraines", "diagnosedDate": "2020-02-20", "status": "Active" }
+      ],
+      "allergies": ["NSAIDs"],
+      "lastVisit": "2023-10-21",
+      "nextAppointment": "2023-11-21",
+      "assignedDoctor": "Dr. David Lee",
+      "emergencyContact": { "name": "Lucas Carter", "relationship": "Spouse", "phone": "+1-555-0198" }
+    },
+    {
+      "id": "P039",
+      "name": "Leo Perez",
+      "age": 36,
+      "gender": "Male",
+      "email": "leo.perez@email.com",
+      "phone": "+1-555-0199",
+      "address": "321 Oak Ave, Jacksonville, FL 32201",
+      "bloodGroup": "AB-",
+      "medicalHistory": [
+        { "condition": "Type 1 Diabetes", "diagnosedDate": "2016-06-10", "status": "Active" }
+      ],
+      "allergies": ["Latex"],
+      "lastVisit": "2023-10-18",
+      "nextAppointment": "2023-11-18",
+      "assignedDoctor": "Dr. Sarah Johnson",
+      "emergencyContact": { "name": "Mia Perez", "relationship": "Spouse", "phone": "+1-555-0200" }
+    },
+    {
+      "id": "P040",
+      "name": "Chloe Adams",
+      "age": 34,
+      "gender": "Female",
+      "email": "chloe.adams@email.com",
+      "phone": "+1-555-0201",
+      "address": "654 Pine St, Memphis, TN 38101",
+      "bloodGroup": "O-",
+      "medicalHistory": [
+        { "condition": "Anxiety Disorder", "diagnosedDate": "2021-01-15", "status": "Active" }
+      ],
+      "allergies": ["Penicillin"],
+      "lastVisit": "2023-10-15",
+      "nextAppointment": "2023-11-15",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": { "name": "Benjamin Adams", "relationship": "Spouse", "phone": "+1-555-0202" }
+    },
+    {
+      "id": "P041",
+      "name": "Zoe Rivera",
+      "age": 28,
+      "gender": "Female",
+      "email": "zoe.rivera@email.com",
+      "phone": "+1-555-0203",
+      "address": "987 Maplewood Blvd, Louisville, KY 40201",
+      "bloodGroup": "A+",
+      "medicalHistory": [
+        { "condition": "PCOS", "diagnosedDate": "2018-03-10", "status": "Active" }
+      ],
+      "allergies": ["Dairy"],
+      "lastVisit": "2023-10-12",
+      "nextAppointment": "2023-11-12",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": { "name": "Henry Rivera", "relationship": "Spouse", "phone": "+1-555-0204" }
+    },
+    {
+      "id": "P042",
+      "name": "Matthew Cooper",
+      "age": 42,
+      "gender": "Male",
+      "email": "matthew.cooper@email.com",
+      "phone": "+1-555-0205",
+      "address": "753 Cedar Ln, Baltimore, MD 21201",
+      "bloodGroup": "B+",
+      "medicalHistory": [
+        { "condition": "Heart Disease", "diagnosedDate": "2017-07-20", "status": "Active" }
+      ],
+      "allergies": ["Shellfish"],
+      "lastVisit": "2023-10-09",
+      "nextAppointment": "2023-11-09",
+      "assignedDoctor": "Dr. David Lee",
+      "emergencyContact": { "name": "Ava Cooper", "relationship": "Spouse", "phone": "+1-555-0206" }
+    },
+    {
+      "id": "P043",
+      "name": "Lily Murphy",
+      "age": 31,
+      "gender": "Female",
+      "email": "lily.murphy@email.com",
+      "phone": "+1-555-0207",
+      "address": "456 Oakwood Ave, Oklahoma City, OK 73101",
+      "bloodGroup": "O+",
+      "medicalHistory": [
+        { "condition": "Asthma", "diagnosedDate": "2019-10-15", "status": "Active" }
+      ],
+      "allergies": ["Pollen"],
+      "lastVisit": "2023-10-06",
+      "nextAppointment": "2023-11-06",
+      "assignedDoctor": "Dr. Sarah Johnson",
+      "emergencyContact": { "name": "Mason Murphy", "relationship": "Spouse", "phone": "+1-555-0208" }
+    },
+    {
+      "id": "P044",
+      "name": "Wyatt Bailey",
+      "age": 39,
+      "gender": "Male",
+      "email": "wyatt.bailey@email.com",
+      "phone": "+1-555-0209",
+      "address": "321 Redwood Blvd, Milwaukee, WI 53201",
+      "bloodGroup": "AB+",
+      "medicalHistory": [
+        { "condition": "Rheumatoid Arthritis", "diagnosedDate": "2016-12-10", "status": "Active" }
+      ],
+      "allergies": ["Latex"],
+      "lastVisit": "2023-10-03",
+      "nextAppointment": "2023-11-03",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": { "name": "Sofia Bailey", "relationship": "Spouse", "phone": "+1-555-0210" }
+    },
+    {
+      "id": "P045",
+      "name": "Nora Reed",
+      "age": 35,
+      "gender": "Female",
+      "email": "nora.reed@email.com",
+      "phone": "+1-555-0211",
+      "address": "654 Oakridge Dr, Albuquerque, NM 87101",
+      "bloodGroup": "B-",
+      "medicalHistory": [
+        { "condition": "Gout", "diagnosedDate": "2020-05-15", "status": "Active" }
+      ],
+      "allergies": ["Aspirin"],
+      "lastVisit": "2023-09-30",
+      "nextAppointment": "2023-10-30",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": { "name": "Julian Reed", "relationship": "Spouse", "phone": "+1-555-0212" }
+    },
+    {
+      "id": "P046",
+      "name": "Hudson Kelly",
+      "age": 38,
+      "gender": "Male",
+      "email": "hudson.kelly@email.com",
+      "phone": "+1-555-0213",
+      "address": "987 Pinecrest Ln, Tucson, AZ 85701",
+      "bloodGroup": "O-",
+      "medicalHistory": [
+        { "condition": "Type 2 Diabetes", "diagnosedDate": "2018-11-20", "status": "Active" }
+      ],
+      "allergies": ["Shellfish"],
+      "lastVisit": "2023-09-27",
+      "nextAppointment": "2023-10-27",
+      "assignedDoctor": "Dr. David Lee",
+      "emergencyContact": { "name": "Penelope Kelly", "relationship": "Spouse", "phone": "+1-555-0214" }
+    },
+    {
+      "id": "P047",
+      "name": "Savannah Price",
+      "age": 30,
+      "gender": "Female",
+      "email": "savannah.price@email.com",
+      "phone": "+1-555-0215",
+      "address": "753 Maplewood Ave, Fresno, CA 93701",
+      "bloodGroup": "A+",
+      "medicalHistory": [
+        { "condition": "PCOS", "diagnosedDate": "2017-02-10", "status": "Active" }
+      ],
+      "allergies": ["Dairy"],
+      "lastVisit": "2023-09-24",
+      "nextAppointment": "2023-10-24",
+      "assignedDoctor": "Dr. Sarah Johnson",
+      "emergencyContact": { "name": "Matthew Price", "relationship": "Spouse", "phone": "+1-555-0216" }
+    },
+    {
+      "id": "P048",
+      "name": "Carter Bennett",
+      "age": 41,
+      "gender": "Male",
+      "email": "carter.bennett@email.com",
+      "phone": "+1-555-0217",
+      "address": "456 Cedarwood Blvd, Sacramento, CA 95801",
+      "bloodGroup": "B+",
+      "medicalHistory": [
+        { "condition": "Heart Disease", "diagnosedDate": "2015-07-20", "status": "Active" }
+      ],
+      "allergies": ["Shellfish"],
+      "lastVisit": "2023-09-21",
+      "nextAppointment": "2023-10-21",
+      "assignedDoctor": "Dr. Michael Brown",
+      "emergencyContact": { "name": "Avery Bennett", "relationship": "Spouse", "phone": "+1-555-0218" }
+    },
+    {
+      "id": "P049",
+      "name": "Stella Wood",
+      "age": 29,
+      "gender": "Female",
+      "email": "stella.wood@email.com",
+      "phone": "+1-555-0219",
+      "address": "321 Oakwood Ln, Mesa, AZ 85201",
+      "bloodGroup": "O+",
+      "medicalHistory": [
+        { "condition": "Asthma", "diagnosedDate": "2016-10-15", "status": "Active" }
+      ],
+      "allergies": ["Pollen"],
+      "lastVisit": "2023-09-18",
+      "nextAppointment": "2023-10-18",
+      "assignedDoctor": "Dr. Lisa Wang",
+      "emergencyContact": { "name": "Leo Wood", "relationship": "Spouse", "phone": "+1-555-0220" }
+    },
+    {
+      "id": "P050",
+      "name": "Mila Barnes",
+      "age": 37,
+      "gender": "Female",
+      "email": "mila.barnes@email.com",
+      "phone": "+1-555-0221",
+      "address": "654 Willow Way, Atlanta, GA 30301",
+      "bloodGroup": "AB+",
+      "medicalHistory": [
+        { "condition": "Rheumatoid Arthritis", "diagnosedDate": "2018-12-10", "status": "Active" }
+      ],
+      "allergies": ["Latex"],
+      "lastVisit": "2023-09-15",
+      "nextAppointment": "2023-10-15",
+      "assignedDoctor": "Dr. David Lee",
+      "emergencyContact": { "name": "Julian Barnes", "relationship": "Spouse", "phone": "+1-555-0222" }
+    }
+  ]
+} 

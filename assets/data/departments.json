@@ -1,0 +1,89 @@
+{
+  "departments": [
+    {
+      "id": "DPT001",
+      "name": "Cardiology",
+      "description": "Specialized in heart and cardiovascular system treatment",
+      "head": "Dr. Sarah Johnson",
+      "totalDoctors": 5,
+      "totalPatients": 120,
+      "location": "Floor 1, Wing A",
+      "contact": "+1-555-0201",
+      "services": [
+        "Heart Disease Treatment",
+        "Cardiac Surgery",
+        "Heart Failure Management",
+        "Cardiac Rehabilitation",
+        "Preventive Cardiology"
+      ]
+    },
+    {
+      "id": "DPT002",
+      "name": "Neurology",
+      "description": "Specialized in disorders of the nervous system",
+      "head": "Dr. Michael Brown",
+      "totalDoctors": 4,
+      "totalPatients": 95,
+      "location": "Floor 2, Wing B",
+      "contact": "+1-555-0202",
+      "services": [
+        "Brain Disorder Treatment",
+        "Spinal Cord Care",
+        "Neurological Surgery",
+        "Stroke Management",
+        "Epilepsy Treatment"
+      ]
+    },
+    {
+      "id": "DPT003",
+      "name": "Pediatrics",
+      "description": "Specialized in children's health and development",
+      "head": "Dr. Lisa Wang",
+      "totalDoctors": 6,
+      "totalPatients": 150,
+      "location": "Floor 1, Wing C",
+      "contact": "+1-555-0203",
+      "services": [
+        "Child Development",
+        "Vaccination",
+        "Pediatric Surgery",
+        "Child Nutrition",
+        "Behavioral Pediatrics"
+      ]
+    },
+    {
+      "id": "DPT004",
+      "name": "Orthopedics",
+      "description": "Specialized in musculoskeletal system treatment",
+      "head": "Dr. David Lee",
+      "totalDoctors": 4,
+      "totalPatients": 110,
+      "location": "Floor 3, Wing A",
+      "contact": "+1-555-0204",
+      "services": [
+        "Joint Replacement",
+        "Sports Medicine",
+        "Spine Surgery",
+        "Fracture Care",
+        "Physical Therapy"
+      ]
+    },
+    {
+      "id": "DPT005",
+      "name": "Dermatology",
+      "description": "Specialized in skin conditions and treatment",
+      "head": "Dr. Emily Chen",
+      "totalDoctors": 3,
+      "totalPatients": 85,
+      "location": "Floor 2, Wing C",
+      "contact": "+1-555-0205",
+      "services": [
+        "Skin Disease Treatment",
+        "Cosmetic Dermatology",
+        "Skin Cancer Screening",
+        "Hair Loss Treatment",
+        "Acne Treatment"
+      ]
+    }
+  ]
+} 

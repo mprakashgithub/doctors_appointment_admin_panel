@@ -1,0 +1,144 @@
+{
+  "doctors": [
+    {
+      "id": "D001",
+      "name": "Dr. Sarah Johnson",
+      "specialization": "Cardiology",
+      "email": "sarah.johnson@hospital.com",
+      "phone": "+1-555-0101",
+      "department": "Cardiology",
+      "experience": 15,
+      "qualification": "MD, FACC",
+      "availability": {
+        "monday": "9:00 AM - 5:00 PM",
+        "tuesday": "9:00 AM - 5:00 PM",
+        "wednesday": "9:00 AM - 5:00 PM",
+        "thursday": "9:00 AM - 5:00 PM",
+        "friday": "9:00 AM - 5:00 PM"
+      },
+      "patientsCount": 45,
+      "rating": 4.8,
+      "image": "assets/images/doctors/doctor1.jpg"
+    },
+    {
+      "id": "D002",
+      "name": "Dr. Michael Brown",
+      "specialization": "Neurology",
+      "email": "michael.brown@hospital.com",
+      "phone": "+1-555-0102",
+      "department": "Neurology",
+      "experience": 12,
+      "qualification": "MD, PhD",
+      "availability": {
+        "monday": "10:00 AM - 6:00 PM",
+        "tuesday": "10:00 AM - 6:00 PM",
+        "wednesday": "10:00 AM - 6:00 PM",
+        "thursday": "10:00 AM - 6:00 PM",
+        "friday": "10:00 AM - 6:00 PM"
+      },
+      "patientsCount": 38,
+      "rating": 4.7,
+      "image": "assets/images/doctors/doctor2.jpg"
+    },
+    {
+      "id": "D003",
+      "name": "Dr. Lisa Wang",
+      "specialization": "Pediatrics",
+      "email": "lisa.wang@hospital.com",
+      "phone": "+1-555-0103",
+      "department": "Pediatrics",
+      "experience": 10,
+      "qualification": "MD, FAAP",
+      "availability": {
+        "monday": "8:00 AM - 4:00 PM",
+        "tuesday": "8:00 AM - 4:00 PM",
+        "wednesday": "8:00 AM - 4:00 PM",
+        "thursday": "8:00 AM - 4:00 PM",
+        "friday": "8:00 AM - 4:00 PM"
+      },
+      "patientsCount": 52,
+      "rating": 4.9,
+      "image": "assets/images/doctors/doctor3.jpg"
+    },
+    {
+      "id": "D004",
+      "name": "Dr. David Lee",
+      "specialization": "Orthopedics",
+      "email": "david.lee@hospital.com",
+      "phone": "+1-555-0104",
+      "department": "Orthopedics",
+      "experience": 14,
+      "qualification": "MD, FACS",
+      "availability": {
+        "monday": "9:00 AM - 5:00 PM",
+        "tuesday": "9:00 AM - 5:00 PM",
+        "wednesday": "9:00 AM - 5:00 PM",
+        "thursday": "9:00 AM - 5:00 PM",
+        "friday": "9:00 AM - 5:00 PM"
+      },
+      "patientsCount": 41,
+      "rating": 4.6,
+      "image": "assets/images/doctors/doctor4.jpg"
+    },
+    {
+      "id": "D005",
+      "name": "Dr. Emily Chen",
+      "specialization": "Dermatology",
+      "email": "emily.chen@hospital.com",
+      "phone": "+1-555-0105",
+      "department": "Dermatology",
+      "experience": 8,
+      "qualification": "MD, FAAD",
+      "availability": {
+        "monday": "10:00 AM - 6:00 PM",
+        "tuesday": "10:00 AM - 6:00 PM",
+        "wednesday": "10:00 AM - 6:00 PM",
+        "thursday": "10:00 AM - 6:00 PM",
+        "friday": "10:00 AM - 6:00 PM"
+      },
+      "patientsCount": 35,
+      "rating": 4.8,
+      "image": "assets/images/doctors/doctor5.jpg"
+    },
+    {
+      "id": "D006",
+      "name": "Dr. David Lee",
+      "specialization": "Orthopedics",
+      "email": "david.lee@hospital.com",
+      "phone": "+1-555-0104",
+      "department": "Orthopedics",
+      "experience": 14,
+      "qualification": "MD, FACS",
+      "availability": {
+        "monday": "9:00 AM - 5:00 PM",
+        "tuesday": "9:00 AM - 5:00 PM",
+        "wednesday": "9:00 AM - 5:00 PM",
+        "thursday": "9:00 AM - 5:00 PM",
+        "friday": "9:00 AM - 5:00 PM"
+      },
+      "patientsCount": 41,
+      "rating": 4.6,
+      "image": "assets/images/doctors/doctor4.jpg"
+    },
+    {
+      "id": "D007",
+      "name": "Dr. Emily Chen",
+      "specialization": "Dermatology",
+      "email": "emily.chen@hospital.com",
+      "phone": "+1-555-0105",
+      "department": "Dermatology",
+      "experience": 8,
+      "qualification": "MD, FAAD",
+      "availability": {
+        "monday": "10:00 AM - 6:00 PM",
+        "tuesday": "10:00 AM - 6:00 PM",
+        "wednesday": "10:00 AM - 6:00 PM",
+        "thursday": "10:00 AM - 6:00 PM",
+        "friday": "10:00 AM - 6:00 PM"
+      },
+      "patientsCount": 35,
+      "rating": 4.8,
+      "image": "assets/images/doctors/doctor5.jpg"
+    }
+  ]
+} 
