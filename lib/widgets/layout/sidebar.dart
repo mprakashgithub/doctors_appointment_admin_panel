@@ -54,6 +54,12 @@ class Sidebar extends StatelessWidget {
             isDrawer: isDrawer,
           ),
           _buildNavItem(
+            icon: Icons.calendar_today,
+            title: 'Responsive',
+            route: Routes.responsive,
+            isDrawer: isDrawer,
+          ),
+          _buildNavItem(
             icon: Icons.settings,
             title: 'Settings',
             route: Routes.settings,

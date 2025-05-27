@@ -6,5 +6,6 @@ abstract class Routes {
   static const doctors = '/doctors';
   static const patients = '/patients';
   static const appointments = '/appointments';
+  static const responsive = '/responsive';
   static const settings = '/settings';
 }
